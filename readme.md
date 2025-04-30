@@ -96,6 +96,11 @@ En el diagrama de clases se estructuran las mismmas con las realciones correspon
 ## Estructura del Proyecto
 
 torneo-esports-uml/ ├── src/
+│ ├── es/empresa/torneo/
+│ │ ├── modelo/
+│ │ ├── control/
+│ │ ├── vista/
+│ │ ├── Main.java
 │ ├── main/java/
 │ │   ├── org.example/
 │ │      ├── Main.java
